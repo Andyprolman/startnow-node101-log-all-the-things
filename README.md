@@ -1,0 +1,1 @@
+logs all user info into json format
